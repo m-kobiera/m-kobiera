@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=600&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Micha%C5%82" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**MicelloK/MicelloK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a few small projects, doing some leetcode
+- 🌱 I’m currently studying Computer Science at AGH UST
+- 📫 How to reach me: mi.kobiera@gmail.com
 
-Here are some ideas to get you started:
+## I have worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,py,c,html,css,js,ts,react,elixir,mysql,linux" />
+  </a>
+</p>
+<br/>
+
+***
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=MicelloK" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=MicelloK" height="150" alt="languages graph"  />
+</div>
+
+***
+
+
